@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "602180707321",
+    "project_id": "firevase-ebc4d",
+    "storage_bucket": "firevase-ebc4d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602180707321:android:e74eb32de7ef3fbb8d5328",
+        "android_client_info": {
+          "package_name": "com.app.firebasedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602180707321-rcanv8a0jejku4004uoa87iq2pk1eij4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.firebasedemo",
+            "certificate_hash": "7032366b4751d9bcc878029ac02493c1512d1699"
+          }
+        },
+        {
+          "client_id": "602180707321-9q5enh0obk5eunok5gjemg82t6r15h3u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJj0i4XmjbSqY648OyI6ZUeRdLZOfIPYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "602180707321-9q5enh0obk5eunok5gjemg82t6r15h3u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
