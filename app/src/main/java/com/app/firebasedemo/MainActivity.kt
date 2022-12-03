@@ -27,7 +27,7 @@ class MainActivity : AppCompatActivity() {
         val add = HashMap<String,Any>()
 
         add["firstName"] = "ihsanaaa"
-        add["lastName"] = "syafiul umamhh"
+        add["lastName"] = "syafiul umamhhd"
         add["email"] = "ihsansyafiul@gmail.com"
         add["password"] = "ayangaku"
 
