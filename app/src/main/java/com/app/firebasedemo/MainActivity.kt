@@ -29,7 +29,7 @@ class MainActivity : AppCompatActivity() {
         add["firstName"] = "ihsanaaa"
         add["lastName"] = "syafiul umamhhd"
         add["email"] = "ihsansyafiul@gmail.com"
-        add["password"] = "ayangaku"
+        add["password"] = "ayangau"
 
         firestore.collection("users")
             .add(add)
